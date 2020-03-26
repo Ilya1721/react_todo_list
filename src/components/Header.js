@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
       <header className="header">
-        <a href="/todo_list">
+        <a href="/">
           TodoList
         </a>
       </header>
